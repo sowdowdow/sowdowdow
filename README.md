@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sowdowdow
 - 👀 I’m interested in high mountain sports
-- 🌱 I’m currently learning Docker, and DevOps in general
+- 🌱 I’m currently learning Kubernetes, and DevOps in general
 - 💞️ I’m looking to collaborate on any cool project !
 
 <!---
